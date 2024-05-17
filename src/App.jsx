@@ -12,6 +12,7 @@ import Single from "./pages/Single"
 import "./style.scss"
 import { useState } from "react"
 
+
 const Layout = () => {
   return (
     <>
